@@ -6,7 +6,7 @@ _Experienced medicinal chemist with a strong background in computational chemist
 
 ## Education
 **Higher Chemical College of the Russian Academy of Sciences** [Mendeleev University of Chemical Technology](https://www.muctr.ru/) <br>
-B. Sc + M. Sc Integrated degree (Specialist) / _(2014 - 2018)_
+B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
   - Chemistry and chemistry teaching; diploma thesis with honors
   - [Vernadsky Nongovernmental Ecological Foundation](https://vernadsky.ru/en/) Scholarship awardee (2017)
 <br><br>
