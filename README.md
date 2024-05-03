@@ -6,6 +6,11 @@ _Experienced medicinal chemist with a strong background in computational chemist
 
 ## Education
 
+**University of Pennsylvania** <br>
+Chemistry Department <br>
+Ph.D / 2024 - current
+  - Fontaine Fellowship awardee (2024)
+
 **Higher Chemical College of the Russian Academy of Sciences** <br>
 [Mendeleev University of Chemical Technology](https://www.muctr.ru/) <br>
 B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
