@@ -11,12 +11,11 @@ Chemistry Department <br>
 Ph. D / 2024 - current
   - Fontaine Fellowship awardee (2024)
 
-**[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <be>
+**[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <br>
 Higher Chemical College of the Russian Academy of Sciences <br>
 B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
   - Chemistry and chemistry teaching; diploma thesis with honors
   - [Vernadsky Nongovernmental Ecological Foundation](https://vernadsky.ru/en/) Scholarship awardee (2017)
-
 <br><br>
 
 ## Relevant Skills
@@ -24,17 +23,16 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Data processing**: DeltaSoft, MestReNova, TopSpin, ACD/Spectrus, DataWarrior, Origin, ChemOffice, ChemAxon, Adobe Creative Suite <br>
 **Instrumentation**: GC/LC-MS, HRMS, TLC-MS, NMR (1D, 2D), HPLC, Biotage V-10, UV-Vis, IR, initiators, flow reactors <br>
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
-
 <br><br>
 
 ## Research and Work Experience
-**Rutgers University** /Biomedical Research Innovation Cores /Molecular Design & Synthesis Group / Piscataway, NJ
-Research Associate / Jan. 2020 – Now 
-Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
-***Medicinal and Synthetic Chemistry***
+**Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
+Research Associate / Jan. 2020 – Now <br>
+Development and synthesis of novel inhibitors for drug discovery programs (10 projects) <br>
+***Medicinal and Synthetic Chemistry*** <br>
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
 - Optimizing lead compounds to improve pharmacokinetic properties
-- Scaling up potential drug candidates for *in vivo* testing (>1g)
+- Scaling up potential drug candidates for *in vivo* testing (>1g) <br>
 ***Computational Chemistry***
 - Utilizing modern computational techniques (docking, QSAR, ADME properties evaluation, etc) for the design of new compounds and structure-activity relationship analysis
 - Creating targeted libraries, chemical spaces, and developing methodologies for hit searching
