@@ -89,28 +89,29 @@ Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
 
 **Structure-based design and optimization of a new class of small molecule inhibitors targeting the P-stalk binding pocket of ricin**<br>
 M. J. Rudolph\*, A. Dutta\*, A. M. Tsymbal\*, J. E. McLaughlin, Y. Chen, S. A. Davis, S. A. Theodorous, M. Pierce, B. Algava, X. Zhang, Z. Szekely, J. Y. Roberge, X. P. Li, N. E. Tumer<br>
-*Bio. Med. Chem*, **2024**, *100*, 117614, *authors contributed equally to this paper<br>
+*Bio. Med. Chem*, **2024**, *100*, 117614, [link](https://doi.org/10.1016/j.bmc.2024.117614) <br>
+/*authors contributed equally to this paper<br>
 
 **Synthesis and structural characterization of ricin inhibitors targeting ribosome binding using fragment based methods and structure-based design**<br>
 X. P. Li, B. Cao, R. K. Harijan, J. N. Kanh, M. Pierce, A. M. Tsymbal, J. Y. Roberge, D. Augeri, N. E. Tumer<br>
-*J. Med. Chem.* **2021**, *64*, *20*, 15334–15348<be>
+*J. Med. Chem.* **2021**, *64*, *20*, 15334–15348, [link](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c01370)<br>
 
 **Autocatalytic cycles in a copper-catalyzed azide–alkyne cycloaddition reaction**<br>
 S. N. Semenov, L. Belding, B. J. Cafferty, M. P. S. Mousavi, A. M. Finogenova, R. S. Cruz, E. V. Skorb, G. M. Whitesides<br>
-*J. Am. Chem. Soc.* **2018**, *140*, 10221–10232<be>
+*J. Am. Chem. Soc.* **2018**, *140*, 10221–10232, [link](https://pubs.acs.org/doi/10.1021/jacs.8b05048)<br>
 
 **Nickel-catalyzed enantioselective pyridone C–H functionalizations enabled by a bulky N-heterocyclic carbene ligand**<br>
 J. Diesel, A. M. Finogenova, N. Cramer<br>
-*J. Am. Chem. Soc.* **2018**, *140*, 4489–4493<br>
-Highlighted: [Synfact of the month](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0037-1609748); *Synfacts* **2018**, *14*, 0595<be>
+*J. Am. Chem. Soc.* **2018**, *140*, 4489–4493, [link](https://pubs.acs.org/doi/10.1021/jacs.8b01181)<br>
+Highlighted: Synfact of the month; *Synfacts* **2018**, *14*, 0595, [link](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0037-1609748)<br>
 
 **1,3-Syn-diaxial repulsion of typical protecting groups used in carbohydrate chemistry in 3-O-substituted derivatives of isopropyl D-idopyranosides**<br>
 B. S. Komarova, A. G. Gerbst, A. M. Finogenova, A. S. Dmitrenok, Y. E. Tsvetkov, N. E. Nifantiev<br>
-*J. Org. Chem.* **2017**, *82*, 8897–8908<be>
+*J. Org. Chem.* **2017**, *82*, 8897–8908, [link](https://pubs.acs.org/doi/10.1021/acs.joc.7b01167)<br>
 
-**Iodide [(η<sup>5</sup>-indenyl)IrI<sub>2</sub>]<sub>n</sub>: an effective precursor to (indenyl)iridium sandwich complexes**<br>
+**Iodide /[(η<sup>5</sup>-indenyl)IrI<sub>2</sub>/]<sub>n</sub>: an effective precursor to (indenyl)iridium sandwich complexes**<br>
 A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D. A. Loginov<br>
-*Mend. Comm.* **2016**, *6*, 491–493<br>
+*Mend. Comm.* **2016**, *6*, 491–493, [link](https://www.sciencedirect.com/science/article/pii/S0959943616301468) <br>
 
 ## Additional Certifications
 **High-Throughput Virtual Screening for Hit Finding and Evaluation**<br>
