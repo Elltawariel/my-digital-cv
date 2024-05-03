@@ -24,8 +24,8 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
 
 ## Research and Work Experience
-### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
-Research Associate / Jan. 2020 – Now <br>
+### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group
+Research Associate / Jan. 2020 – Now / Piscataway, NJ <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects)<br>
 ***Medicinal and Synthetic Chemistry***
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
@@ -47,26 +47,26 @@ Development and synthesis of novel inhibitors for drug discovery programs (10 pr
 - Secretary of DEI Initiative at Rutgers University Office for Research
 - Made an Introduction Video for the Core Facility Showcase about the group for the Engage-2020 conference <br>
 
-**École Polytechnique Fédérale de Lausanne** / Laboratory of Asymmetric Catalysis and Synthesis / Institute of Chemical Sciences and Engineering / Lausanne, Switzerland <br>
-Visiting student / 2017 / Advisor: Prof. Nicolai Cramer <br>
+### École Polytechnique Fédérale de Lausanne / Laboratory of Asymmetric Catalysis and Synthesis / Institute of Chemical Sciences and Engineering
+Visiting student / 2017 / Advisor: Prof. Nicolai Cramer / Lausanne, Switzerland <br>
 Synthesis of new chiral NHC ligands and investigation of their application to asymmetric catalysis 
 - Synthesized and fully characterized several Ni N-heterocyclic carbene complexes via 6-7 steps sequences
 - Documented all experimental data using an electronic lab notebook by PerkinElmer <br>
 
-**Harvard University** / Department of Chemistry and Chemical Biology / Cambridge, MA <br>
-Student Intern / 2016 / Advisor: Prof. George M. Whitesides <br>
+### Harvard University / Department of Chemistry and Chemical Biology
+Student Intern / 2016 / Advisor: Prof. George M. Whitesides / Cambridge, MA <br>
 Origins of life: developing new chemical networks and studying the kinetics of autocatalytic reactions
 - Development, optimization, and mechanistic studies of CuAAC prototypical autocatalytic cycles 
 - Executed kinetic studies using various NMR techniques and UV-Vis absorption spectra
 - Built microfluidics devices for studying reaction cycles in flow <br>
 
-**Nesmeyanov Institute of Organoelement Compounds** / Laboratory of Transition Metal π-Complexes / Moscow <br>
+### Nesmeyanov Institute of Organoelement Compounds / Laboratory of Transition Metal π-Complexes
 Visiting student / 2015 / Advisor: Prof. Dmitry A. Loginov <br>
 Synthesis of indenyl halide iridium complexes and evaluating their catalytic activity
 - Synthesized and fully characterized several Ir-Ind complexes via up to 6 steps sequences
 - Investigated their catalytic activity in oxidative couplings <br>
 
-**Zelinsky Institute of Organic Chemistry** / Laboratory of Glycoconjugate Chemistry / Moscow <br>
+### Zelinsky Institute of Organic Chemistry / Laboratory of Glycoconjugate Chemistry
 Undergraduate research assistant / 2013–2018 / Advisor: Prof. Nikolai E. Nifantiev <br>
 Total synthesis of oligosaccharides and investigation of stereoelectronic effects in glycosylation reactions
 - Designed multistep (12+) reaction sequences toward different oligosaccharides and performed all steps on various scales (10mg - 400g)
@@ -76,7 +76,7 @@ Total synthesis of oligosaccharides and investigation of stereoelectronic effect
 - Presented this research at several international conferences, using Adobe Creative Cloud and MS Office for preparation
 - Supervised high-school student for a school coursework project <br>
 
-**Chemistry Tournaments** / Moscow <br>
+### Chemistry Tournaments
 Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
 - Helped in organizing and managing multiple international and regional chemistry tournaments for up to 250 participants, which had to solve open-type problems
 - Acted as a host in tournament sections, assisted with productive discussions, ensuring adherence to timelines and task expectations
