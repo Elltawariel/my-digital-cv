@@ -24,7 +24,7 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
 
 ## Research and Work Experience
-#### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
+### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
 Research Associate / Jan. 2020 – Now <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects)<br>
 ***Medicinal and Synthetic Chemistry***
