@@ -18,7 +18,7 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
   - [Vernadsky Nongovernmental Ecological Foundation](https://vernadsky.ru/en/) Scholarship awardee (2017)
 
 ## Relevant Skills
-**Computational chemistry**: Python (NumPy, Pandas, RDKit, scikit-learn, MatPlotLib), KNIME, Schrödinger Suite, MOE, InfiniSee, SeeSAR <br>
+**Computational chemistry**: Python (NumPy, Pandas, RDKit, scikit-learn, MatPlotLib), KNIME, Schrödinger Suite, MOE, BioSolveIT Tools <br>
 **Data processing**: DeltaSoft, MestReNova, TopSpin, ACD/Spectrus, DataWarrior, Origin, ChemOffice, ChemAxon, Adobe Creative Suite <br>
 **Instrumentation**: GC/LC-MS, HRMS, TLC-MS, NMR (1D, 2D), HPLC, Biotage V-10, UV-Vis, IR, initiators, flow reactors <br>
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
