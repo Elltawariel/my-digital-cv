@@ -32,8 +32,7 @@ Development and synthesis of novel inhibitors for drug discovery programs (10 pr
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
 - Optimizing lead compounds to improve pharmacokinetic properties
 - Scaling up potential drug candidates for *in vivo* testing (>1g)
-
-***Computational Chemistry***
+<br>***Computational Chemistry***
 - Utilizing modern computational techniques (docking, QSAR, ADME properties evaluation, etc) for the design of new compounds and structure-activity relationship analysis
 - Creating targeted libraries, chemical spaces, and developing methodologies for hit searching
 - Developing cheminformatics workflows for high-throughput virtual screenings and lead optimizations
