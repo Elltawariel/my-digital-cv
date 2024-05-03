@@ -9,7 +9,7 @@ _Experienced medicinal chemist with a strong background in computational chemist
 **University of Pennsylvania** <br>
 Chemistry Department <br>
 Ph. D / 2024 - current
-  - Fontaine Fellowship awardee (2024)
+  - [Fontaine Fellowship](https://gsc.upenn.edu/fontaine) awardee (2024)
 
 **[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <br>
 Higher Chemical College of the Russian Academy of Sciences <br>
