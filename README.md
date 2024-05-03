@@ -20,10 +20,12 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 <br><br>
 
 ## Relevant Skills
-**Computational chemistry**: Python (NumPy, Pandas, RDKit, scikit-learn, MatPlotLib), KNIME, Schrödinger Suite, MOE, InfiniSee, SeeSAR
-**Data processing**: DeltaSoft, MestReNova, TopSpin, ACD/Spectrus, DataWarrior, Origin, ChemOffice, ChemAxon, Adobe Creative Suite
-**Instrumentation**: GC/LC-MS, HRMS, TLC-MS, NMR (1D, 2D), HPLC, Biotage V-10, UV-Vis, IR, initiators, flow reactors
+**Computational chemistry**: Python (NumPy, Pandas, RDKit, scikit-learn, MatPlotLib), KNIME, Schrödinger Suite, MOE, InfiniSee, SeeSAR <br>
+**Data processing**: DeltaSoft, MestReNova, TopSpin, ACD/Spectrus, DataWarrior, Origin, ChemOffice, ChemAxon, Adobe Creative Suite <br>
+**Instrumentation**: GC/LC-MS, HRMS, TLC-MS, NMR (1D, 2D), HPLC, Biotage V-10, UV-Vis, IR, initiators, flow reactors <br>
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
+
+<br><br>
 
 ## Research and Work Experience
 **Rutgers University** /Biomedical Research Innovation Cores /Molecular Design & Synthesis Group / Piscataway, NJ
