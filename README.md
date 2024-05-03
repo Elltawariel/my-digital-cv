@@ -26,7 +26,8 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 ## Research and Work Experience
 ### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group
 Research Associate / Jan. 2020 – Now / Piscataway, NJ <br>
-Development and synthesis of novel inhibitors for drug discovery programs (10 projects)<br>
+Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
+
 ***Medicinal and Synthetic Chemistry***
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
 - Optimizing lead compounds to improve pharmacokinetic properties
