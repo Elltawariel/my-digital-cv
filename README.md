@@ -90,7 +90,7 @@ Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
 **Structure-based design and optimization of a new class of small molecule inhibitors targeting the P-stalk binding pocket of ricin**<br>
 M. J. Rudolph\*, A. Dutta\*, A. M. Tsymbal\*, J. E. McLaughlin, Y. Chen, S. A. Davis, S. A. Theodorous, M. Pierce, B. Algava, X. Zhang, Z. Szekely, J. Y. Roberge, X. P. Li, N. E. Tumer<br>
 *Bio. Med. Chem*, **2024**, *100*, 117614, [link](https://doi.org/10.1016/j.bmc.2024.117614) <br>
-/*authors contributed equally to this paper<br>
+*authors contributed equally to this paper<br>
 
 **Synthesis and structural characterization of ricin inhibitors targeting ribosome binding using fragment based methods and structure-based design**<br>
 X. P. Li, B. Cao, R. K. Harijan, J. N. Kanh, M. Pierce, A. M. Tsymbal, J. Y. Roberge, D. Augeri, N. E. Tumer<br>
