@@ -48,8 +48,8 @@ Development and synthesis of novel inhibitors for drug discovery programs (10 pr
 - Regularly report the progress of ongoing projects in meetings with external collaborators and stakeholders
 - Supervising and mentoring three undergraduate work-study students
 - Secretary of DEI Initiative at Rutgers University Office for Research
-- Made an Introduction Video for the Core Facility Showcase about the group for the Engage-2020 conference
-<br>
+- Made an Introduction Video for the Core Facility Showcase about the group for the Engage-2020 conference <br>
+
 **École Polytechnique Fédérale de Lausanne** / Laboratory of Asymmetric Catalysis and Synthesis / Institute of Chemical Sciences and Engineering / Lausanne, Switzerland <br>
 Visiting student / 2017 / Advisor: Prof. Nicolai Cramer <br>
 Synthesis of new chiral NHC ligands and investigation of their application to asymmetric catalysis 
