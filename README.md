@@ -75,7 +75,6 @@ Total synthesis of oligosaccharides and investigation of stereoelectronic effect
 - Designed multistep (12+) reaction sequences toward different oligosaccharides and performed all steps on various scales (10mg - 400g)
 - Fully characterized (1D, 2D NMR, MS, IR, UV, X-Ray diffraction) final compounds 
 - Used analytical data processing software, such as Advion Mass and Data Express, MassLynx, MestReNova, TopSpin, Origin, and ChemAxon for characterization
-- Designed glassware and procedures for performing column chromatography at -10ºC
 - Executed conformational studies of D-idose derivatives using various NMR techniques (1D; 2D: COSY, NOESY, HSQC, J-HMBC, TOCSY, ROESY)
 - Presented this research at several international conferences, using Adobe Creative Cloud and MS Office for preparation
 - Supervised high-school student for a school coursework project <br>
@@ -89,9 +88,7 @@ Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
 - Contributed to a team effort in the successful execution of these multi-day events by handling various tasks in a fast-paced environment <br><br>
 
 ## Publications
-**Small molecules targeting ribosome binding of Shiga toxin 2**<br>
-M. J. Rudolph*, A. M. Tsymbal*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li*<br>
-under review, 2024, *authors contributed equally to this paper<br>
+
 **Structure-based design and optimization of a new class of small molecule inhibitors targeting the P-stalk binding pocket of ricin**<br>
 M. J. Rudolph*, A. Dutta*, A. M. Tsymbal*, J. E. McLaughlin, Y. Chen, S. A. Davis, S. A. Theodorous, M. Pierce, B. Algava, X. Zhang, Z. Szekely, J. Y. Roberge, X. P. Li, N. E. Tumer<br>
 Bio. Med. Chem, 2024, 100, 117614, *authors contributed equally to this paper<br>
@@ -115,14 +112,14 @@ A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D.
 Mend. Comm. 2016, 6, 491–493<br>
 
 ## Additional Certifications
-**High-Throughput Virtual Screening for Hit Finding and Evaluation**
-	Online self-paced course (~60 hours total) by Schrödinger Inc.
-**Introduction to Computer-Aided Molecular Design in MOE**
-	Series of online classes by Chemical Computing Group, 8 sessions
-**Machine Learning/AI Engineering Foundations**
-	Skill path by Codecademy (~200 hours)
-**Data Science Foundations**
-	Skill path by Codecademy (~150 hours)
+**High-Throughput Virtual Screening for Hit Finding and Evaluation**<be>
+Online self-paced course (~60 hours total) by Schrödinger Inc.<br>
+**Introduction to Computer-Aided Molecular Design in MOE**<br>
+Series of online classes by Chemical Computing Group, 8 sessions<br>
+**Machine Learning/AI Engineering Foundations**<br>
+Skill path by Codecademy (~200 hours)<br>
+**Data Science Foundations**<br>
+Skill path by Codecademy (~150 hours)<br>
 
 
 ## Conferences
