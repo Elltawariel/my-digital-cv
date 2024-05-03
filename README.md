@@ -40,7 +40,8 @@ Development and synthesis of novel inhibitors for drug discovery programs (10 pr
 - Creating targeted libraries, chemical spaces, and developing methodologies for hit searching
 - Developing cheminformatics workflows for high-throughput virtual screenings and lead optimizations
 - Collaborating with Schrödinger Inc. on *in silico* and FEP+ analysis project
-<br>***Administrative Responsibilities***
+
+***Administrative Responsibilities***
 - Working with Oracle and MySQL databases through DeltaSoft interface for maintaining lab inventory, compound registrations, analytical data, and biological data, including data generated in the last 9 years in the group
 - Performing extensive analysis of literature, organizing and presenting findings for the development and writing of various grant proposals, including three NIH R01, patents and scientific papers
 - Communicating with CROs to perform needed biological and chemical studies; preparing external shipments, documents, and quotes for testing
