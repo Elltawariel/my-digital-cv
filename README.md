@@ -23,13 +23,11 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Data processing**: DeltaSoft, MestReNova, TopSpin, ACD/Spectrus, DataWarrior, Origin, ChemOffice, ChemAxon, Adobe Creative Suite <br>
 **Instrumentation**: GC/LC-MS, HRMS, TLC-MS, NMR (1D, 2D), HPLC, Biotage V-10, UV-Vis, IR, initiators, flow reactors <br>
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
-<br><br>
 
 ## Research and Work Experience
 **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
 Research Associate / Jan. 2020 – Now <br>
-Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
-
+Development and synthesis of novel inhibitors for drug discovery programs (10 projects)<br>
 ***Medicinal and Synthetic Chemistry***
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
 - Optimizing lead compounds to improve pharmacokinetic properties
@@ -112,7 +110,7 @@ A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D.
 Mend. Comm. 2016, 6, 491–493<br>
 
 ## Additional Certifications
-**High-Throughput Virtual Screening for Hit Finding and Evaluation**<be>
+**High-Throughput Virtual Screening for Hit Finding and Evaluation**<br>
 Online self-paced course (~60 hours total) by Schrödinger Inc.<br>
 **Introduction to Computer-Aided Molecular Design in MOE**<br>
 Series of online classes by Chemical Computing Group, 8 sessions<br>
