@@ -54,21 +54,21 @@ Development and synthesis of novel inhibitors for drug discovery programs (10 pr
 Visiting student / 2017 / Advisor: Prof. Nicolai Cramer <br>
 Synthesis of new chiral NHC ligands and investigation of their application to asymmetric catalysis 
 - Synthesized and fully characterized several Ni N-heterocyclic carbene complexes via 6-7 steps sequences
-- Documented all experimental data using an electronic lab notebook by PerkinElmer
-<br>
+- Documented all experimental data using an electronic lab notebook by PerkinElmer <br>
+
 **Harvard University** / Department of Chemistry and Chemical Biology / Cambridge, MA <br>
 Student Intern / 2016 / Advisor: Prof. George M. Whitesides <br>
 Origins of life: developing new chemical networks and studying the kinetics of autocatalytic reactions
 - Development, optimization, and mechanistic studies of CuAAC prototypical autocatalytic cycles 
 - Executed kinetic studies using various NMR techniques and UV-Vis absorption spectra
-- Built microfluidics devices for studying reaction cycles in flow
-<br>
+- Built microfluidics devices for studying reaction cycles in flow <br>
+
 **Nesmeyanov Institute of Organoelement Compounds** / Laboratory of Transition Metal π-Complexes / Moscow <br>
 Visiting student / 2015 / Advisor: Prof. Dmitry A. Loginov <br>
 Synthesis of indenyl halide iridium complexes and evaluating their catalytic activity
 - Synthesized and fully characterized several Ir-Ind complexes via up to 6 steps sequences
-- Investigated their catalytic activity in oxidative couplings
-<br>
+- Investigated their catalytic activity in oxidative couplings <br>
+
 **Zelinsky Institute of Organic Chemistry** / Laboratory of Glycoconjugate Chemistry / Moscow <br>
 Undergraduate research assistant / 2013–2018 / Advisor: Prof. Nikolai E. Nifantiev <br>
 Total synthesis of oligosaccharides and investigation of stereoelectronic effects in glycosylation reactions
@@ -78,16 +78,16 @@ Total synthesis of oligosaccharides and investigation of stereoelectronic effect
 - Designed glassware and procedures for performing column chromatography at -10ºC
 - Executed conformational studies of D-idose derivatives using various NMR techniques (1D; 2D: COSY, NOESY, HSQC, J-HMBC, TOCSY, ROESY)
 - Presented this research at several international conferences, using Adobe Creative Cloud and MS Office for preparation
-- Supervised high-school student for a school coursework project
-<br>
+- Supervised high-school student for a school coursework project <br>
+
 **Chemistry Tournaments** / Moscow <br>
 Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
 - Helped in organizing and managing multiple international and regional chemistry tournaments for up to 250 participants, which had to solve open-type problems
 - Acted as a host in tournament sections, assisted with productive discussions, ensuring adherence to timelines and task expectations
 - Assisted teams in the introduction and guided participants in their roles as reporters, opponents, and judges
 - Mediated conflicts and provided feedback to teams and participants to help improve their performance
-- Contributed to a team effort in the successful execution of these multi-day events by handling various tasks in a fast-paced environment
-<br><br>
+- Contributed to a team effort in the successful execution of these multi-day events by handling various tasks in a fast-paced environment <br><br>
+
 ## Publications
 **Small molecules targeting ribosome binding of Shiga toxin 2**
 M. J. Rudolph*, A. M. Tsymbal*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li*
