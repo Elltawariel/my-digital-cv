@@ -2,7 +2,7 @@
 
 _Experienced medicinal chemist with a strong background in computational chemistry and organic synthesis of small molecules_ <br>
 
-[Email](mailto:anastas.fin@gmail.com) / [Website](___) / [LinkedIn](https://www.linkedin.com/in/anastasiia-tsymbal-0328a1126/) / [GitHub](https://github.com/elltawariel/) / [ORCID](https://orcid.org/0000-0001-9502-5494)
+[Email](mailto:anastas.fin@gmail.com) / [Website](___) / [LinkedIn](https://www.linkedin.com/in/anastasiia-tsymbal-0328a1126/) / [GitHub](https://github.com/elltawariel/) / [ORCID](https://orcid.org/0000-0001-9502-5494) / [Google Scholar](https://scholar.google.com/citations?user=e-Pq0joAAAAJ)
 
 ## Education
 
@@ -108,17 +108,20 @@ Highlighted: [Synfact of the month](https://www.thieme-connect.com/products/ejou
 B. S. Komarova, A. G. Gerbst, A. M. Finogenova, A. S. Dmitrenok, Y. E. Tsvetkov, N. E. Nifantiev<br>
 *J. Org. Chem.* **2017**, *82*, 8897–8908<be>
 
-**Iodide [(η^5^-indenyl)IrI~2~]~n~: an effective precursor to (indenyl)iridium sandwich complexes**<br>
+**Iodide /[/(η^5^-indenyl/)IrI~2~/]~n~: an effective precursor to (indenyl)iridium sandwich complexes**<br>
 A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D. A. Loginov<br>
 *Mend. Comm.* **2016**, *6*, 491–493<br>
 
 ## Additional Certifications
 **High-Throughput Virtual Screening for Hit Finding and Evaluation**<br>
-Online self-paced course (~60 hours total) by Schrödinger Inc.<br>
+Online self-paced course (~60 hours total) by Schrödinger Inc.<be>
+
 **Introduction to Computer-Aided Molecular Design in MOE**<br>
-Series of online classes by Chemical Computing Group, 8 sessions<br>
+Series of online classes by Chemical Computing Group, 8 sessions<be>
+
 **Machine Learning/AI Engineering Foundations**<br>
-Skill path by Codecademy (~200 hours)<br>
+Skill path by Codecademy (~200 hours)<be>
+
 **Data Science Foundations**<br>
 Skill path by Codecademy (~150 hours)<br>
 
