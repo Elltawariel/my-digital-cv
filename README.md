@@ -29,10 +29,12 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group / Piscataway, NJ <br>
 Research Associate / Jan. 2020 – Now <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects) <br>
+
 ***Medicinal and Synthetic Chemistry***
 - Designing, synthesizing, and characterizing novel organic compounds for drug discovery applications
 - Optimizing lead compounds to improve pharmacokinetic properties
-- Scaling up potential drug candidates for *in vivo* testing (>1g) 
+- Scaling up potential drug candidates for *in vivo* testing (>1g)
+
 <br>***Computational Chemistry***
 - Utilizing modern computational techniques (docking, QSAR, ADME properties evaluation, etc) for the design of new compounds and structure-activity relationship analysis
 - Creating targeted libraries, chemical spaces, and developing methodologies for hit searching
