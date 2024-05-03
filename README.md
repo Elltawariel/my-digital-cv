@@ -108,7 +108,7 @@ Highlighted: [Synfact of the month](https://www.thieme-connect.com/products/ejou
 B. S. Komarova, A. G. Gerbst, A. M. Finogenova, A. S. Dmitrenok, Y. E. Tsvetkov, N. E. Nifantiev<br>
 *J. Org. Chem.* **2017**, *82*, 8897–8908<be>
 
-**Iodide [(η<sup>5<sup>-indenyl/)IrI~2~/]~n~: an effective precursor to (indenyl)iridium sandwich complexes**<br>
+**Iodide [(η<sup>5</sup>-indenyl)IrI<sub>2</sub>]<sub>n</sub>: an effective precursor to (indenyl)iridium sandwich complexes**<br>
 A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D. A. Loginov<br>
 *Mend. Comm.* **2016**, *6*, 491–493<br>
 
