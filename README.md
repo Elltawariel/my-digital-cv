@@ -2,7 +2,7 @@
 
 _Experienced medicinal chemist with a strong background in computational chemistry and organic synthesis of small molecules_ <br>
 
-[Email](mailto:anasta.tsym@gmail.com) / [Website](___) / [LinkedIn](https://www.linkedin.com/in/anastasiia-tsymbal-0328a1126/) / [GitHub](https://github.com/elltawariel/) / [ORCID](https://orcid.org/0000-0001-9502-5494) / [Google Scholar](https://scholar.google.com/citations?user=e-Pq0joAAAAJ)
+[Email](mailto:anasta.tsym@gmail.com) / [Website](https://elltawariel.github.io/my-digital-cv/) / [LinkedIn](https://www.linkedin.com/in/anastasiia-tsymbal-0328a1126/) / [GitHub](https://github.com/elltawariel/) / [ORCID](https://orcid.org/0000-0001-9502-5494) / [Google Scholar](https://scholar.google.com/citations?user=e-Pq0joAAAAJ)
 
 ## Education
 
