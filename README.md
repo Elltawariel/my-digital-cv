@@ -12,7 +12,7 @@ Ph. D / 2024 - current
   - [Fontaine Fellowship](https://gsc.upenn.edu/fontaine) awardee (2024)
 
 **[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <br>
-[Higher Chemical College of the Russian Academy of Sciences](https://zioc.ru/education/higher-chemical-college-of-ras?lang=en) <br>
+[Higher Chemical College of the Russian Academy of Sciences](https://www.sciencedirect.com/science/article/abs/pii/S0959943607000570) <br>
 B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
   - Chemistry and chemistry teaching; diploma thesis with honors
   - [Vernadsky Nongovernmental Ecological Foundation](https://vernadsky.ru/en/) Scholarship awardee (2017)
