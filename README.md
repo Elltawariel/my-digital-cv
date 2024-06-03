@@ -8,7 +8,7 @@ _Experienced medicinal chemist with a strong background in computational chemist
 
 **[University of Pennsylvania](https://www.upenn.edu/)** <br>
 School of Arts and Sciences, [Chemistry Department](https://www.chem.upenn.edu/) <br>
-Ph. D / 2024 - current
+Ph. D / 2024 - Now
   - [Fontaine Fellowship](https://gsc.upenn.edu/fontaine) awardee (2024)
 
 **[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <br>
@@ -25,7 +25,7 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 
 ## Research and Work Experience
 ### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group
-Research Associate / Jan. 2020 – Now / Piscataway, NJ <br>
+Research Associate / Jan. 2020 – Jul. 2024 / Piscataway, NJ <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
 
 ***Medicinal and Synthetic Chemistry***
