@@ -25,7 +25,7 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 
 ## Research and Work Experience
 ### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group
-Research associate / Jan. 2020 – Jul. 2024 / Piscataway, NJ <br>
+Research associate / 2020 – 2024 / Piscataway, NJ <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
 
 ***Medicinal and Synthetic Chemistry***
