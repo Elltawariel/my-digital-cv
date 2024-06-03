@@ -78,7 +78,7 @@ Total synthesis of oligosaccharides and investigation of stereoelectronic effect
 - Supervised high-school student for a school coursework project <br>
 
 ### Chemistry Tournaments
-Event Organization Specialist / 2014-2018 / Regional part of IChTo <br>
+Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://ichto.org/en/) <br>
 - Helped in organizing and managing multiple international and regional chemistry tournaments for up to 250 participants, which had to solve open-type problems
 - Acted as a host in tournament sections, assisted with productive discussions, ensuring adherence to timelines and task expectations
 - Assisted teams in the introduction and guided participants in their roles as reporters, opponents, and judges
