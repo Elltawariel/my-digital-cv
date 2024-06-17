@@ -87,7 +87,7 @@ Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://icht
 
 ## Publications
 
-**SFragment Screening to Identify Inhibitors Targeting Ribosome Binding of Shiga Toxin 2**<br>
+**Fragment Screening to Identify Inhibitors Targeting Ribosome Binding of Shiga Toxin 2**<br>
 M. J. Rudolph\*, A. M. Tsymbal\*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li\*<br>
 *ACS Infect. Dis.*, **2024**, *---*, ---, [link](https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00224) <br>
 *authors contributed equally to this paper<br>
