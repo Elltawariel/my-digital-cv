@@ -89,7 +89,7 @@ Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://icht
 
 **SFragment Screening to Identify Inhibitors Targeting Ribosome Binding of Shiga Toxin 2**<br>
 M. J. Rudolph\*, A. M. Tsymbal\*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li\*<br>
-*ACS Inf. Dis.*, **2024**, *---*, ---, [link](https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00224) <br>
+*ACS Infect. Dis.*, **2024**, *---*, ---, [link](https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00224) <br>
 *authors contributed equally to this paper<br>
 
 **Structure-based design and optimization of a new class of small molecule inhibitors targeting the P-stalk binding pocket of ricin**<br>
