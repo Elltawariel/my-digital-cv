@@ -89,7 +89,7 @@ Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://icht
 
 **Fragment Screening to Identify Inhibitors Targeting Ribosome Binding of Shiga Toxin 2**<br>
 M. J. Rudolph\*, A. M. Tsymbal\*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li\*<br>
-*ACS Infect. Dis.*, **2024**, *---*, ---, [link](https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00224) <br>
+*ACS Infect. Dis.*, **2024**, *10* (8), 2814-2825, [link](https://pubs.acs.org/doi/10.1021/acsinfecdis.4c00224) <br>
 *authors contributed equally to this paper<br>
 
 **Structure-based design and optimization of a new class of small molecule inhibitors targeting the P-stalk binding pocket of ricin**<br>
@@ -116,7 +116,13 @@ B. S. Komarova, A. G. Gerbst, A. M. Finogenova, A. S. Dmitrenok, Y. E. Tsvetkov,
 
 **Iodide [(η<sup>5</sup>-indenyl)IrI<sub>2</sub>]<sub>n</sub>: an effective precursor to (indenyl)iridium sandwich complexes**<br>
 A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D. A. Loginov<br>
-*Mend. Comm.* **2016**, *6*, 491–493, [link](https://www.sciencedirect.com/science/article/pii/S0959943616301468) <br>
+*Mend. Comm.* **2016**, *6*, 491–493, [link](https://www.sciencedirect.com/science/article/pii/S0959943616301468) <be>
+
+## Patents
+
+**Compositions and methods for inhibiting ribosome inactivating proteins**
+
+*3 more provisional patent applications had been filed for different projects*
 
 ## Additional Certifications
 **High-Throughput Virtual Screening for Hit Finding and Evaluation**<br>
