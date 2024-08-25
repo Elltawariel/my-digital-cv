@@ -138,11 +138,11 @@ Skill path by Codecademy (~200 hours)<be>
 Skill path by Codecademy (~150 hours)<br>
 
 
-## Public presentations and posters
+## Public Presentations and Posters
 
 NJ Research Cores Partnering Conference, Princeton, NJ, 2023, *poster*<br>
 NJ Research Cores Partnering Conference, Piscataway, NJ, 2022, *poster*<br>
-Engage-2020, Princeton Innovation and Entrepreneurship Conference, Princeton, NJ, 2020, *introduction video*<br>
+Engage-2020, Princeton Innovation and Entrepreneurship Conference, Princeton, NJ, 2020, *introduction video*, [link](https://research.rutgers.edu/video/molecular-design-and-synthesis-core-overview)<br>
 XXVII All-Russian Mendeleev Student Conference, Ufa, Russia, 2017, *poster*<br>
 Education and Science for Sustainable Development, Moscow, Russia, 2016<br>
 XXV All-Russian Mendeleev Student Conference, Tomsk, 2015, *poster*<br>
