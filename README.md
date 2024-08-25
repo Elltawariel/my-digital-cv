@@ -145,9 +145,9 @@ NJ Research Cores Partnering Conference, Piscataway, NJ, 2022, *poster*<br>
 Engage-2020, Princeton Innovation and Entrepreneurship Conference, Princeton, NJ, 2020, *introduction video*, [link](https://research.rutgers.edu/video/molecular-design-and-synthesis-core-overview)<br>
 XXVII All-Russian Mendeleev Student Conference, Ufa, Russia, 2017, *poster*<br>
 Education and Science for Sustainable Development, Moscow, Russia, 2016<br>
+International Lomonosov 2016 Conference for Young Scientists, Moscow, Russia, 2016, *The best poster award*<br>
 XXV All-Russian Mendeleev Student Conference, Tomsk, 2015, *poster*<br>
 Education and Science for Sustainable Development, Moscow, Russia, 2015<br>
-International Lomonosov 2016 Conference for Young Scientists, Moscow, Russia, 2016, *The best poster award*<br>
 Young Chemists Conference (KonUCh), Moscow, Russia, 2014, *1st place, presentation*<br>
 XXXVIII Russian Practical Scientific Chemistry Conference, Saint-Petersburg, Russia, 2014, *1st place, presentation*<br>
 
