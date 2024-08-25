@@ -138,7 +138,20 @@ Skill path by Codecademy (~200 hours)<be>
 Skill path by Codecademy (~150 hours)<br>
 
 
-## Conferences
+## Public presentations and posters
+
+NJ Research Cores Partnering Conference, Princeton, NJ, 2023, *poster*<br>
+NJ Research Cores Partnering Conference, Piscataway, NJ, 2022, *poster*<br>
+Engage-2020, Princeton Innovation and Entrepreneurship Conference, Princeton, NJ, 2020, *introduction video*<br>
+XXVII All-Russian Mendeleev Student Conference, Ufa, Russia, 2017, *poster*<br>
+Education and Science for Sustainable Development, Moscow, Russia, 2016<br>
+XXV All-Russian Mendeleev Student Conference, Tomsk, 2015, *poster*<br>
+Education and Science for Sustainable Development, Moscow, Russia, 2015<br>
+International Lomonosov 2016 Conference for Young Scientists, Moscow, Russia, 2016, *The best poster award*<br>
+Young Chemists Conference (KonUCh), Moscow, Russia, 2014, *1st place, presentation*<br>
+XXXVIII Russian Practical Scientific Chemistry Conference, Saint-Petersburg, Russia, 2014, *1st place, presentation*<br>
 
 
 ## Academic Awards and Achievements
+
+TBA
