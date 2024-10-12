@@ -120,8 +120,6 @@ A. A. Chamkin, A. M. Finogenova, Yu. V. Nelyubina, J. Laskova, A. R. Kudinov, D.
 
 ## Patents
 
-**Compositions and methods for inhibiting ribosome inactivating proteins**
-
 *3 more provisional patent applications had been filed for different projects*
 
 ## Additional Certifications
