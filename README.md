@@ -24,6 +24,17 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 **Other**: Linux, Cloud computing, SLURM, HPC, AWS
 
 ## Research and Work Experience
+
+### **[University of Pennsylvania](https://www.upenn.edu/)** <br>
+School of Arts and Sciences, [Chemistry Department](https://www.chem.upenn.edu/) <br>
+Teaching assistant / 2024 - 2025 / Philadelphia, PA
+CHEM2510: Principles of Biological Chemistry
+  - Led multiple weekly recitation sessions for undergraduate students, guiding them through homework problems related to enzyme mechanisms and metabolic pathways
+  - Graded weekly assignments and exams with consistency and efficiency, providing feedback using Gradescope (200 students sections)
+  - Held regular office hours to offer individualized academic support and guidance
+  - Collaborated with the course instructor to align recitation content with lecture material and course objectives
+
+
 ### **Rutgers University** / Biomedical Research Innovation Cores / Molecular Design & Synthesis Group
 Research associate / 2020 – 2024 / Piscataway, NJ <br>
 Development and synthesis of novel inhibitors for drug discovery programs (10 projects)
