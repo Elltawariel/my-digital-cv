@@ -8,12 +8,12 @@ _Experienced medicinal chemist with a strong background in computational chemist
 
 **[University of Pennsylvania](https://www.upenn.edu/)** <br>
 School of Arts and Sciences, [Chemistry Department](https://www.chem.upenn.edu/) <br>
-Ph. D / 2024 - Now
+Ph. D / 2024 – Now
   - [Fontaine Fellowship](https://gsc.upenn.edu/fontaine) awardee (2024)
 
 **[Mendeleev University of Chemical Technology](https://www.muctr.ru/)** <br>
 [Higher Chemical College of the Russian Academy of Sciences](https://www.sciencedirect.com/science/article/abs/pii/S0959943607000570) <br>
-B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
+B. Sc + M. Sc Integrated degree (Specialist) / 2014 – 2018
   - Chemistry and chemistry teaching; diploma thesis with honors
   - [Vernadsky Nongovernmental Ecological Foundation](https://vernadsky.ru/en/) Scholarship awardee (2017)
 
@@ -27,7 +27,7 @@ B. Sc + M. Sc Integrated degree (Specialist) / 2014 - 2018
 
 ### **[University of Pennsylvania](https://www.upenn.edu/)** <br>
 School of Arts and Sciences, [Chemistry Department](https://www.chem.upenn.edu/) <br>
-Teaching assistant / 2024 - 2025 / Philadelphia, PA
+Teaching assistant / 2024 – 2025 / Philadelphia, PA
 CHEM2510: Principles of Biological Chemistry
   - Led multiple weekly recitation sessions for undergraduate students, guiding them through homework problems related to enzyme mechanisms and metabolic pathways
   - Graded weekly assignments and exams with consistency and efficiency, providing feedback using Gradescope (200 students sections)
@@ -79,7 +79,7 @@ Synthesis of indenyl halide iridium complexes and evaluating their catalytic act
 - Investigated their catalytic activity in oxidative couplings <br>
 
 ### Zelinsky Institute of Organic Chemistry / Laboratory of Glycoconjugate Chemistry
-Undergraduate research assistant / 2013–2018 / Advisor: Prof. Nikolai E. Nifantiev <br>
+Undergraduate research assistant / 2013 – 2018 / Advisor: Prof. Nikolai E. Nifantiev <br>
 Total synthesis of oligosaccharides and investigation of stereoelectronic effects in glycosylation reactions
 - Designed multistep (12+) reaction sequences toward different oligosaccharides and performed all steps on various scales (10mg - 400g)
 - Fully characterized (1D, 2D NMR, MS, IR, UV, X-Ray diffraction) final compounds 
@@ -89,7 +89,7 @@ Total synthesis of oligosaccharides and investigation of stereoelectronic effect
 - Supervised high-school student for a school coursework project <br>
 
 ### Chemistry Tournaments
-Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://ichto.org/en/) <br>
+Event Organization Specialist / 2014 – 2018 / Regional part of [IChTo](http://ichto.org/en/) <br>
 - Helped in organizing and managing multiple international and regional chemistry tournaments for up to 250 participants, which had to solve open-type problems
 - Acted as a host in tournament sections, assisted with productive discussions, ensuring adherence to timelines and task expectations
 - Assisted teams in the introduction and guided participants in their roles as reporters, opponents, and judges
@@ -97,6 +97,12 @@ Event Organization Specialist / 2014-2018 / Regional part of [IChTo](http://icht
 - Contributed to a team effort in the successful execution of these multi-day events by handling various tasks in a fast-paced environment <br><br>
 
 ## Publications
+
+**Binding of small molecules at the P-stalk site of ricin A subunit trigger conformational changes that extend into the active site**<br>
+J. E. McLaughlin\*, M. J. Rudolph\*,  A. Dutta, X. P. Li, A. M. Tsymbal, Y. Chen, S. Bhattacharya, B. Algava, M. Goger, J. Y. Roberge, N. E. Tumer<br>
+*J. Bio. Chem..*, **2025**, *301* (3), 108310, [link](https://doi.org/10.1016/j.jbc.2025.108310) <br>
+*authors contributed equally to this paper<br>
+
 
 **Fragment Screening to Identify Inhibitors Targeting Ribosome Binding of Shiga Toxin 2**<br>
 M. J. Rudolph\*, A. M. Tsymbal\*, A. Dutta, S. A. Davis, B. Algava, J. Y. Roberge, N. E. Tumer, X. P. Li\*<br>
